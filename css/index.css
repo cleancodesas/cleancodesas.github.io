@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f6fc;
+    color: #333;
+}
+header {
+    background-color: #2396d3;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem;
+    text-align: center;
+}
+.intro {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 2rem;
+}
+.logo {
+    max-width: 150px;
+    margin: 0 auto 1rem;
+}
+.footer {
+    background-color: #35424a;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+.contact-info {
+    font-size: 1rem;
+}
